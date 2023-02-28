@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Harpreet Kaur</h1>
 <h3 align="center">I'm passionate Data Analyst who enthusiastic about data and numbers</h3>
 
