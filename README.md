@@ -3,19 +3,38 @@
 
 - 🔭 I’m currently working on **Data Analyst Project for my Portfolio**
 
-- 🌱 I’m currently learning **Machine learning and Python Libraries**
+- 🌱 I’m currently learning **Machine learning and More Python Libraries**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 📫 You can reach me at: **kaurhappy501@gmail.com**
+- 📫 You can reach me at: **kharpreetofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harpreet-kaur-60667b1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harpreet-kaur-60667b1b7/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/harpreet-kaur-60667b1b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
+ <img src="https://komarev.com/ghpvc/?username=Harpreetk01&style=flat-square&color=blue" alt=""/>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+![ alt text](https://img.shields.io/badge/MicrosoftExcel-217346?stle*for-the-badges&logo=MicorsoftExcel)
+![ alt text](https://img.shields.io/badge/Python-3776AB?stle*for-the-badges&logo=Python)
+![ alt text](https://img.shields.io/badge/PowerBi-F2C811?stle*for-the-badges&logo=PowerBi)
+![ alt text](https://img.shields.io/badge/MySQL-4479A1?stle*for-the-badges&logo=MySQL)
+
+![ alt text](https://img.shields.io/badge/Numpy-013243?stle*for-the-badges&logo=Numpy)
+![ alt text](https://img.shields.io/badge/pandas-150458?stle*for-the-badges&logo=pandas)
+![ alt text](https://img.shields.io/badge/Seaborn-7469?stle*for-the-badges&logo=Seaborn)
+![ alt text](https://img.shields.io/badge/Matplotlib-3410?stle*for-the-badges&logo=Matplotlib)
+
+![ alt text](https://img.shields.io/badge/Plotly-3F4F75?stle*for-the-badges&logo=Plotly)
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harpreetk01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://github.com/Harpreetk01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/Harpreetk01" /></a></p><br><br>
