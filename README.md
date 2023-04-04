@@ -34,7 +34,7 @@
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harpreetk01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harpreetk01)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://github.com/Harpreetk01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/Harpreetk01" /></a></p><br><br>
