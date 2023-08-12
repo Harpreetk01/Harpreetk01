@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harpreet Kaur</h1>
-<h3 align="center">I'm passionate Data Analyst who enthusiastic about data and numbers</h3>
+<h3 align="center">I'm a passionate Data Analyst who is enthusiastic about data and numbers</h3>
 
 - 🔭 I’m currently working on **Data Analyst Project for my Portfolio**
 
-- 🌱 I’m currently learning **Machine learning and More Python Libraries**
+- 🌱 I’m currently learning **Statistics & Probability and More Python Libraries**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
