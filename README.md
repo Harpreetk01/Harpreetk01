@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Analyst Project for my Portfolio**
 
-- 🌱 I’m currently learning **Statistics & Probability and More Python Libraries**
+- 🌱 I’m currently learning **Statistics and More Python Libraries**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
